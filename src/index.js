@@ -8,12 +8,7 @@ import 'firebase/compat/firestore';
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBH4r65uRi1lUjm4Dc5EkVE5--wPeQMRJU",
-  authDomain: "cart-b3ed6.firebaseapp.com",
-  projectId: "cart-b3ed6",
-  storageBucket: "cart-b3ed6.appspot.com",
-  messagingSenderId: "294140013831",
-  appId: "1:294140013831:web:a9d8b473079008a84669a2"
+
 };
 firebase.initializeApp(firebaseConfig);
 ReactDOM.render(
